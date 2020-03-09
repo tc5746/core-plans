@@ -79,8 +79,6 @@ core-plans/vim
 core-plans/libbsd
 core-plans/clens
 core-plans/mg
-core-plans/gnupg
-core-plans/acbuild
 core-plans/aws-cli
 core-plans/curl
 core-plans/cmake
@@ -96,7 +94,6 @@ core-plans/git
 core-plans/groff
 core-plans/sqlite
 core-plans/libffi
-core-plans/which
 core-plans/python
 core-plans/python2
 core-plans/libarchive
